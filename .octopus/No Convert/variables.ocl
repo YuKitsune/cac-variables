@@ -1,0 +1,8 @@
+variable "MyNormalVariable" {
+
+    value "It's completely normal" {
+    }
+
+    value "This isn't as normal" {
+    }
+}
