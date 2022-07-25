@@ -3,3 +3,9 @@ variable "foo" {
     value "bar" {
     }
 }
+
+variable "fizz" {
+
+    value "buzz" {
+    }
+}
